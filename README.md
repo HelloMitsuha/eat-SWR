@@ -1,2 +1,5 @@
 # eat-SWR
-由"辰风"提供源码，基于此源码二改的小游戏，原版名为吃掉蔡徐坤，勿喷，如侵犯请联系我删除
+
+基于 [EatKano](https://github.com/arcxingye/EatKano) 二改
+
+-  [源代码仓库](https://github.com/arcxingye/EatKano)
